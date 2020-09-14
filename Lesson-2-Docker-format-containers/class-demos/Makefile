@@ -1,5 +1,6 @@
 setup:
-	python3 -m venv ~/.udacity-devops
+	python -m venv udacity-devops
+	venv\Scripts\activate.bat
 
 install:
 	pip install --upgrade pip &&\
