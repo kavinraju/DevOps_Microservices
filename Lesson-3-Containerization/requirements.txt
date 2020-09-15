@@ -5,6 +5,7 @@ pytest
 pylint
 ipython
 flask
+flask_api
 pylint-flask
 Flask-API
 requests
